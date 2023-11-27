@@ -12,3 +12,10 @@ C:\Users\aless\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Cons
 C:\Users\aless\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
 C:\Users\aless\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\aless\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\aless\Source\Repos\Esercizi-.Net\Modulo1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\Source\Repos\Esercizi-.Net\Modulo1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\aless\Source\Repos\Esercizi-.Net\Modulo1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\aless\Source\Repos\Esercizi-.Net\Modulo1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\aless\Source\Repos\Esercizi-.Net\Modulo1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\aless\Source\Repos\Esercizi-.Net\Modulo1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\aless\Source\Repos\Esercizi-.Net\Modulo1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb

@@ -1,0 +1,14 @@
+C:\Users\aless\source\repos\Esercizi-.Net\Modulo1\Personal\Personal\bin\Debug\net6.0\Personal.exe
+C:\Users\aless\source\repos\Esercizi-.Net\Modulo1\Personal\Personal\bin\Debug\net6.0\Personal.deps.json
+C:\Users\aless\source\repos\Esercizi-.Net\Modulo1\Personal\Personal\bin\Debug\net6.0\Personal.runtimeconfig.json
+C:\Users\aless\source\repos\Esercizi-.Net\Modulo1\Personal\Personal\bin\Debug\net6.0\Personal.dll
+C:\Users\aless\source\repos\Esercizi-.Net\Modulo1\Personal\Personal\bin\Debug\net6.0\Personal.pdb
+C:\Users\aless\source\repos\Esercizi-.Net\Modulo1\Personal\Personal\obj\Debug\net6.0\Personal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\source\repos\Esercizi-.Net\Modulo1\Personal\Personal\obj\Debug\net6.0\Personal.AssemblyInfoInputs.cache
+C:\Users\aless\source\repos\Esercizi-.Net\Modulo1\Personal\Personal\obj\Debug\net6.0\Personal.AssemblyInfo.cs
+C:\Users\aless\source\repos\Esercizi-.Net\Modulo1\Personal\Personal\obj\Debug\net6.0\Personal.csproj.CoreCompileInputs.cache
+C:\Users\aless\source\repos\Esercizi-.Net\Modulo1\Personal\Personal\obj\Debug\net6.0\Personal.dll
+C:\Users\aless\source\repos\Esercizi-.Net\Modulo1\Personal\Personal\obj\Debug\net6.0\refint\Personal.dll
+C:\Users\aless\source\repos\Esercizi-.Net\Modulo1\Personal\Personal\obj\Debug\net6.0\Personal.pdb
+C:\Users\aless\source\repos\Esercizi-.Net\Modulo1\Personal\Personal\obj\Debug\net6.0\Personal.genruntimeconfig.cache
+C:\Users\aless\source\repos\Esercizi-.Net\Modulo1\Personal\Personal\obj\Debug\net6.0\ref\Personal.dll

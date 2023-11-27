@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "O1DBWC2R1YZu+RxCtzvxWuKscsz06O8U/41KDCYUJvoGvK/gGLFI0ZFfZ3th5nalwy2x7XqDB9vOt5r8Ui7NVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aless\\source\\repos\\Esercizi-.Net\\Modulo1\\Personal\\Personal\\Personal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aless\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\aless\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\aless\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\aless\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
