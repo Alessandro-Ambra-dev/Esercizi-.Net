@@ -1,0 +1,15 @@
+/Users/elisafarinella3/Esercizi-.Net/Modulo2/es-2/obj/Debug/net8.0/es-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elisafarinella3/Esercizi-.Net/Modulo2/es-2/obj/Debug/net8.0/es-2.AssemblyInfoInputs.cache
+/Users/elisafarinella3/Esercizi-.Net/Modulo2/es-2/obj/Debug/net8.0/es-2.AssemblyInfo.cs
+/Users/elisafarinella3/Esercizi-.Net/Modulo2/es-2/obj/Debug/net8.0/es-2.csproj.CoreCompileInputs.cache
+/Users/elisafarinella3/Esercizi-.Net/Modulo2/es-2/obj/Debug/net8.0/es-2.sourcelink.json
+/Users/elisafarinella3/Esercizi-.Net/Modulo2/es-2/bin/Debug/net8.0/es-2
+/Users/elisafarinella3/Esercizi-.Net/Modulo2/es-2/bin/Debug/net8.0/es-2.deps.json
+/Users/elisafarinella3/Esercizi-.Net/Modulo2/es-2/bin/Debug/net8.0/es-2.runtimeconfig.json
+/Users/elisafarinella3/Esercizi-.Net/Modulo2/es-2/bin/Debug/net8.0/es-2.dll
+/Users/elisafarinella3/Esercizi-.Net/Modulo2/es-2/bin/Debug/net8.0/es-2.pdb
+/Users/elisafarinella3/Esercizi-.Net/Modulo2/es-2/obj/Debug/net8.0/es-2.dll
+/Users/elisafarinella3/Esercizi-.Net/Modulo2/es-2/obj/Debug/net8.0/refint/es-2.dll
+/Users/elisafarinella3/Esercizi-.Net/Modulo2/es-2/obj/Debug/net8.0/es-2.pdb
+/Users/elisafarinella3/Esercizi-.Net/Modulo2/es-2/obj/Debug/net8.0/es-2.genruntimeconfig.cache
+/Users/elisafarinella3/Esercizi-.Net/Modulo2/es-2/obj/Debug/net8.0/ref/es-2.dll
